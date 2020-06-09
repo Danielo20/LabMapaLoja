@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabMapaLoja</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal</string>
+    <string name="hybrid_map">Hibrido</string>
+    <string name="satellite_map">Satelite</string>
+    <string name="terrain_map">Terreno</string>
+    <string name="calcular">Calcular distancia</string>
+    <string name="calculo">Distancia</string>
+</resources>

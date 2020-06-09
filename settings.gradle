@@ -1,0 +1,2 @@
+rootProject.name='LabMapaLoja'
+include ':app'
